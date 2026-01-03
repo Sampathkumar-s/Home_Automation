@@ -1,0 +1,16 @@
+#define BLYNK_TEMPLATE_ID "TMPL3sGPsPOd5"
+#define BLYNK_TEMPLATE_NAME "Home Automation"
+
+
+#define BLYNK_TEMPLATE_NAME "Home Automation"
+#define BLYNK_AUTH_TOKEN "iaqNBhGf1jNjQAio54d49ZKPmALQohDZ"
+
+    
+
+
+#define BLYNK_TEMPLATE_NAME "Temperature monitoring"
+#define BLYNK_AUTH_TOKEN "v1WyBW41AFDPuhmPkxHVQOBJ0UoyCw0V"
+
+
+#define BLYNK_TEMPLATE_ID "TMPL3yn4-XYk8"
+#define BLYNK_TEMPLATE_NAME "Temperature monitoring"

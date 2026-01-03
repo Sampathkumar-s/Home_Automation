@@ -1,0 +1,2 @@
+Step 1: File -> Prefernece -> http://arduino.esp8266.com/stable/package_esp8266com_index.json
+step 2: Install ESP8266 library
