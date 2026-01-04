@@ -31,8 +31,8 @@ DHT dht(DHTPIN, DHTTYPE);
 BlynkTimer timer;
 
 // -------- Telegram Info --------
-const String BOT_TOKEN = "8502068886:AAFXpmnKL_gdRCXVuzqzOYAWbp7cXo4PErE";
-const String CHAT_ID  = "1544122708";
+const String BOT_TOKEN = "x";
+const String CHAT_ID  = "x";
 
 // -------- Flags to prevent spamming --------
 bool tempAlertSent = false;
