@@ -14,3 +14,11 @@
 
 #define BLYNK_TEMPLATE_ID "TMPL3yn4-XYk8"
 #define BLYNK_TEMPLATE_NAME "Temperature monitoring"
+
+
+#define BLYNK_TEMPLATE_NAME "Mushroom Monitoring"
+#define BLYNK_AUTH_TOKEN "ntfhMVnlLmG7uNPYj4YhkwctrGGF8_dS"
+
+
+#define BLYNK_TEMPLATE_ID "TMPL3Y_ija-3b"
+#define BLYNK_TEMPLATE_NAME "Mushroom Monitoring"

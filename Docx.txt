@@ -1,2 +1,8 @@
 Step 1: File -> Prefernece -> http://arduino.esp8266.com/stable/package_esp8266com_index.json
 step 2: Install ESP8266 library
+create a blynk cloud BLYNK_TEMPLATE_ID
+add data stream 
+add devices 
+generate the id,temp number 
+install the blynk iot app 
+
